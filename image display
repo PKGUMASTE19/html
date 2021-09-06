@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  
+ <body>
+   <h1>
+     The src attribuute
+   </h1>
+   <p>
+     the html images are defined with the  img tag, & the file name of the image source is specified in the src attribute:
+   </p>
+   <img src="img_girl.jpg"  width="100" height="100">
+  </body>
+</html>
